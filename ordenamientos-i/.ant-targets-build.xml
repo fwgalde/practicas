@@ -1,0 +1,7 @@
+clean
+compile
+default
+dist
+doc
+run
+test

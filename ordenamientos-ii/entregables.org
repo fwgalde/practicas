@@ -1,0 +1,5 @@
+* Actividades.
+** Respuesta a la pregunta.
+
+   Sí, es suficiente para darnos cuenta que la complejidad en tiempo de selectinSort es mayor que la de quickSort.
+   Pues mientras selectinSort tiene una complejidad de O(n^{2}), quickSort tiene una complejidad de O(n*log_{2}(n))
